@@ -1,8 +1,6 @@
 /* 
   Cody Stebbins
-  INFO 343 B, Autumn 2012
   December 8th, 2012
-  Final Project - Tune Guessr
 */
 
 var // modules
